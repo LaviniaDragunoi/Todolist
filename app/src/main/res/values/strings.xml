@@ -1,3 +1,11 @@
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">To do list</string>
+    <string name="title">This is your day:</string>
+    <string name="weak_up">Weak-up sleepy head!</string>
+    <string name="coffee">Coffee and breakfast!</string>
+    <string name="yoga">Yoga/Sport Time!</string>
+    <string name="work">Hello Work!</string>
+    <string name="dinner">Dinner Time!</string>
+    <string name="relax">Relax!/Party Time!</string>
+    <string name="sleep">Sleep tight!</string>
 </resources>

@@ -8,4 +8,18 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="ScrollViewStyle">
+        <!--Custumize ScrollView for each activity-->
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@drawable/background</item>
+        <item name="android:fillViewport">true</item>
+        <item name="android:scrollbarTrackVertical">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="RelativeLayoutStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
 </resources>

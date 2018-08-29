@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextStyleTitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="LeftTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:layout_alignParentLeft">true</item>
+    </style>
+
+    <style name="RightTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+
+    <style name="RightImagesStyle">
+        <item name="android:layout_width">@dimen/img</item>
+        <item name="android:layout_height">@dimen/img</item>
+        <item name="android:layout_alignParentRight">true</item>
+    </style>
+
+    <style name="LeftImagesStyle">
+        <item name="android:layout_width">@dimen/img</item>
+        <item name="android:layout_height">@dimen/img</item>
+        <item name="android:layout_alignParentLeft">true</item>
+    </style>
+
+</resources>
