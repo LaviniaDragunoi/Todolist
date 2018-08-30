@@ -6,6 +6,10 @@ Displays a few TextView and ImageView and focus on their position on the device'
 ## What I learned
 * Use ViewGroup Layout, TextView and ImageView
 
+## Screenshots
+
+![screenshot_20180829-212306](https://user-images.githubusercontent.com/36914492/44829968-0f4a5880-ac28-11e8-851c-619ea4baa5d6.jpg)
+
 ## License
 This project was submited by Lavinia Dragunoi as a part of Udacity Android Basics Nanodegree.
 
