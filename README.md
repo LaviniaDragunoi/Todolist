@@ -15,7 +15,7 @@ This project was submited by Lavinia Dragunoi as a part of Udacity Android Basic
 
 MIT License
 
-Copyright (c) 218 Lavinia Dragunoi
+Copyright (c) 2018 Lavinia Dragunoi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
